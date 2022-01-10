@@ -1,3 +1,3 @@
 # Food-Ordering-Microservices
 
-Squard-1
+Squad-1
